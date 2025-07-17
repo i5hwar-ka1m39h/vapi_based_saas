@@ -22,6 +22,8 @@ import {
 } from "@/components/ui/select"
 import { subjects } from "@/constants"
 import { Textarea } from "./ui/textarea"
+import { createBot } from "@/lib/actions/bot.actions"
+import { redirect } from "next/navigation"
 
 const formSchema = z.object({
   name: z.string().min(1, { message: "name is required" }),
@@ -46,9 +48,15 @@ const BotForm = () => {
   })
 
   // 2. Define a submit handler.
-  function onSubmit(values: z.infer<typeof formSchema>) {
-
-    console.log(values)
+  async function onSubmit(values: z.infer<typeof formSchema>) {
+    const bot = await createBot(values)
+    if(bot){
+      redirect(`/bots/${bot.id}`)
+    }else{
+      console.log("failed to create the bot");
+      redirect("/")
+      
+    }
   }
   return (
     <Form {...form}>
