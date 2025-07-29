@@ -30,7 +30,7 @@ interface RecentsProp {
 const Recents = ({ title, bots, className }: RecentsProp) => {
   return (
     <article className={cn("companion-list", className)}>
-      <h2 className="font-bold text-2xl">Recents</h2>
+      <h2 className="font-bold text-2xl">{title}</h2>
       <Table>
 
         <TableHeader>
