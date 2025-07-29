@@ -21,8 +21,12 @@ This project lets you create your own chatbot for a particular topic that you wa
 ## 🖼️ Preview
 
 <!-- Replace with actual images later -->
-![App Screenshot 1](./screenshots/screenshot1.png)
-![App Screenshot 2](./screenshots/screenshot2.png)
+![App Screenshot 1](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170807.png)
+![App Screenshot 2](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170704.png)
+![App Screenshot 3](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170613.png)
+![App Screenshot 4](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170751.png)
+![App Screenshot 5](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170912.png)
+![App Screenshot 6](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170955.png)
 
 ---
 
