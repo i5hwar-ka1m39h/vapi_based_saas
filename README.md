@@ -21,11 +21,17 @@ This project lets you create your own chatbot for a particular topic that you wa
 ## 🖼️ Preview
 
 <!-- Replace with actual images later -->
+- Main Dashboard
 ![App Screenshot 1](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170807.png)
+- All bots page
 ![App Screenshot 2](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170704.png)
+- Profile page
 ![App Screenshot 3](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170613.png)
+- Bot builder
 ![App Screenshot 4](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170751.png)
+- Interacting with bot 
 ![App Screenshot 5](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170912.png)
+- Subscription page
 ![App Screenshot 6](https://github.com/i5hwar-ka1m39h/vapi_based_saas/blob/5b7f7472595c995c63a9b785f3b7f9dd8515429d/Screenshot%202025-07-29%20170955.png)
 
 ---
