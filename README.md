@@ -1,20 +1,20 @@
-# [Project Title Here]
+# Conversation Bot Mate
 
 ## 📖 Description
 
-[Write a short paragraph explaining the purpose of your project, what it does, and any key features.]
-
+This project lets you create your own chatbot for a particular topic that you want to learn just specify subject and topic and you have a bot mate that can help you with all your studies.
+(Note: Demo is not available);
 ---
 
 ## 🚀 Tech Stack
 
-- Framework: [Next.js / React]
-- Language: [TypeScript]
-- Voice SDK: [vapi.sdk]
-- Transcription: [Deepgram]
-- Voice Synthesis: [11labs]
-- Animation: [Lottie]
-- Styling: [TailwindCSS / Your preferred CSS method]
+- Framework: Next.js, Supabase, Clerk Auth
+- Language: TypeScript
+- Voice SDK: vapi.sdk
+- Transcription: Deepgram
+- Voice Synthesis: 11labs
+- Animation: Lottie
+- Styling: TailwindCSS with Shadcn components
 
 ---
 
@@ -30,10 +30,15 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/i5hwar-ka1m39h/vapi_based_saas.git
 
 # Go to the project directory
-cd your-repo-name
+cd vapi_based_saas
+
+#your will need to get your env var from each service like supabase, vapi and clerk and copy in .env file
 
 # Install dependencies
 npm install
+
+# run the project 
+npm run dev
