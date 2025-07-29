@@ -71,7 +71,7 @@ interface SavedMessage {
 }
 
 interface CompanionComponentProps {
-  companionId: string;
+  botId: string;
   subject: string;
   topic: string;
   name: string;
